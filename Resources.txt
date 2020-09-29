@@ -1,0 +1,7 @@
+https://www.youtube.com/watch?time_continue=412&v=H4986KDZkeI  - IIT MADRAS  DS- Basic Concepts
+
+https://nptel.ac.in/courses/106/105/106105215/  - Deep Learning IIT KGP
+
+https://nptel.ac.in/courses/106/106/106106213/  -IIT MADRAS Practical Machine learning with tenserflow
+
+https://nptel.ac.in/courses/106/106/106106212/ - Python DATA SCIENCE

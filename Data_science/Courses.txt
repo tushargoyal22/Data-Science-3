@@ -1,0 +1,12 @@
+
+https://campus.datacamp.com/courses/supervised-learning-with-scikit-learn/classification?ex=1
+Deep Learning - Prof Mitesh M khapra IIT M - https://www.youtube.com/watch?
+ML Concepts IIT M- https://www.youtube.com/watch?v=_M-nDb0MIa4&list=PLyqSpQzTE6M-SISTunGRBRiZk7opYBf_K
+
+
+
+Time series manipulation and analysis:
+https://www.datacamp.com/courses/manipulating-time-series-data-in-python
+
+https://www.datacamp.com/courses/visualizing-time-series-data-in-python
+https://www.datacamp.com/courses/machine-learning-for-time-series-data-in-python
